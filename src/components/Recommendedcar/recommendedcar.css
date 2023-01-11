@@ -1,0 +1,30 @@
+.car-box {
+  background-color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.car-box h6 {
+}
+.car-box h6 svg {
+  color: #666;
+  margin-right: 10px;
+}
+.car-box img {
+  width: 95%;
+  /* height: 120px; */
+}
+.car-box h5 {
+}
+.car-box .recomend-footer {
+  color: #666;
+}
+.car-box .recomend-footer svg {
+  color: #666;
+  margin-right: 15px;
+}
+.car-box .recomend-footer span {
+  color: #666;
+  margin-right: 15px;
+}

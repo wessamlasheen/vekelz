@@ -1,0 +1,56 @@
+.content-sec {
+}
+.content-sec h4 {
+}
+.content-sec .head-content {
+}
+.content-sec .head-content .drop-down {
+}
+.content-sec .head-content .drop-down select {
+  border: none;
+  border-radius: 17px;
+  padding: 2px 28px 2px 10px;
+  color: #666;
+  font-size: 14px;
+  text-transform: capitalize;
+  font-weight: 500;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='gray' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 2px;
+}
+.content-sec .head-content .drop-down select:focus {
+  outline: none;
+}
+.content-sec .head-content .icons {
+}
+.content-sec .head-content .icons .icon1 {
+  background-color: #fff;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 25px;
+}
+.content-sec .head-content .icons .icon2 {
+  background-color: var(--main-burble-color);
+  width: 25px;
+  height: 25px;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 25px;
+}
+.content-sec .head-content .icons .icon1 svg {
+  font-size: 12px;
+}
+.content-sec .head-content .icons .icon2 {
+}
+@media only screen and (max-width: 767px) {
+  .content-sec .head-content {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

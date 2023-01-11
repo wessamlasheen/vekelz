@@ -1,0 +1,9 @@
+.list-group.sidebar {
+  border-radius: 0 !important;
+  height: 100%;
+  background-color: #fff;
+}
+.sidebar .list-group-item {
+  border: none;
+  color: #666;
+}
