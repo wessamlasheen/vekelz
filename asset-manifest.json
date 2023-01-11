@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vekelz/static/css/main.c395883b.css",
-    "main.js": "/vekelz/static/js/main.9f92d81e.js",
+    "main.js": "/vekelz/static/js/main.e1df12a4.js",
     "static/js/787.28cb0dcd.chunk.js": "/vekelz/static/js/787.28cb0dcd.chunk.js",
     "static/media/recomendCar1.png": "/vekelz/static/media/recomendCar1.fc820d9ab894486330c9.png",
     "static/media/carBokking1.png": "/vekelz/static/media/carBokking1.8a7ed23d774a79f2b5d1.png",
@@ -12,11 +12,11 @@
     "static/media/avatar.png": "/vekelz/static/media/avatar.c8f9e6c0dbf789a5abe5.png",
     "index.html": "/vekelz/index.html",
     "main.c395883b.css.map": "/vekelz/static/css/main.c395883b.css.map",
-    "main.9f92d81e.js.map": "/vekelz/static/js/main.9f92d81e.js.map",
+    "main.e1df12a4.js.map": "/vekelz/static/js/main.e1df12a4.js.map",
     "787.28cb0dcd.chunk.js.map": "/vekelz/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c395883b.css",
-    "static/js/main.9f92d81e.js"
+    "static/js/main.e1df12a4.js"
   ]
 }
